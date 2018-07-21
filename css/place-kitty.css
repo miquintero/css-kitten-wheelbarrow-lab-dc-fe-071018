@@ -6,13 +6,12 @@
   left: 129px;
 }
 /* Select the image with id of kitty-2 */
-#kitty-2{
+#kitty-2 {
   position: absolute;
   z-index: 2;
   top: 212px;
   left: 369px;
 }
-
 /* Select the image inside the element with an id of basket (using its descendent relationship) */
 #basket img {
   position: absolute;
