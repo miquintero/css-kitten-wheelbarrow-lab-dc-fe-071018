@@ -27,7 +27,7 @@
   left: 455px;
 }
 /* Select the image that has an attribute value matching "Kitty 5" (using attribute selector) */
-[attr=Kitty 5] {
+[Kitty 5] {
   position: absolute;
   z-index: 3;
   top: 217px;
